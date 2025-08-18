@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Salvare"
+categories: projects
+date: 2022-04-01
+image: /images/project-placeholder.png
+code: https://github.com/arg274/salvare
+---
+
+An Android app to manage online links. An application to manage online links in a single place with the descriptions and thumbnails. Uses Google OAuth for authentication.

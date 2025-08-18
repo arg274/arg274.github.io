@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Enhancing Heterogeneous Multi-Agent Cooperation in Decentralized MARL via GNN-driven Intrinsic Rewards"
+authors: "Jahir Sadik Monon, Deeparghya Dutta Barua, Md Mosaddek Khan"
+venue: "AAMAS 2025 (Extended Abstract)"
+date: 2025-05-19
+categories: research
+image: /images/publication-placeholder.png
+arxiv: https://www.arxiv.org/abs/2408.06503
+code: https://github.com/jahirsadik/CoHet-Implementation
+scholar: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NWtnV0wAAAAJ&citation_for_view=NWtnV0wAAAAJ:9yKSN-GCB0IC
+---
+
+Proposes CoHet, a GNN-based intrinsic motivation algorithm for decentralized heterogeneous multi-agent reinforcement learning, achieving state-of-the-art performance in cooperative scenarios.

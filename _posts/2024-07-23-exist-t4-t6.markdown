@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Penta ML at EXIST 2024: Tagging Sexism in Online Multimodal Content With Attention-enhanced Modal Context"
+authors: "Deeparghya Dutta Barua, Md Sakib Ul Rahman Sourove, Fabiha Haider, Fariha Tanjim Shifat, Md Farhan Ishmam, Md Fahim, Farhad Alam Bhuiyan"
+venue: "CLEF EXIST 2024"
+date: 2024-07-23
+categories: research
+image: /images/publication-placeholder.png
+paper: https://ceur-ws.org/Vol-3740/paper-90.pdf
+code: https://github.com/farhanishmam/Penta-Exist-2024
+scholar: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NWtnV0wAAAAJ&citation_for_view=NWtnV0wAAAAJ:d1gkVwhDpl0C
+---
+
+Presents an attention-based multimodal approach for sexism detection in online content, achieving state-of-the-art performance in the EXIST 2024 challenge.

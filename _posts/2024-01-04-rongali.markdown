@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Rongali"
+categories: projects
+date: 2024-05-04
+image: /images/project-placeholder.png
+website: https://rongali.vercel.app/
+---
+
+Bangla transliteration annotation tool. A Svelte web application to annotate transliterated Bangla text to Bangla script using the Google Transliteration API. Offers various shortcuts to expedite the process, contains improvements for acronyms, certain vowel sounds and numerals. Can also be used to write Bangla text from scratch.
