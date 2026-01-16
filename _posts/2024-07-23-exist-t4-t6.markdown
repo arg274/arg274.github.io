@@ -5,7 +5,7 @@ authors: "Deeparghya Dutta Barua, Md Sakib Ul Rahman Sourove, Fabiha Haider, Far
 venue: "CLEF EXIST 2024"
 date: 2024-07-23
 categories: research
-image: /images/publication-placeholder.png
+image: /images/exist2.png
 paper: https://ceur-ws.org/Vol-3740/paper-90.pdf
 code: https://github.com/farhanishmam/Penta-Exist-2024
 scholar: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NWtnV0wAAAAJ&citation_for_view=NWtnV0wAAAAJ:d1gkVwhDpl0C

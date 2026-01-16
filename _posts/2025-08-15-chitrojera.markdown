@@ -5,7 +5,7 @@ authors: "Deeparghya Dutta Barua, Md Sakib Ul Rahman Sourove, Md Fahim, Fabiha H
 venue: "ECML PKDD 2025"
 date: 2025-08-15
 categories: research
-image: /images/publication-placeholder.png
+image: /images/chitrojera.png
 paper: https://arxiv.org/abs/2410.14991
 code: https://github.com/farhanishmam/ChitroJera
 scholar: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NWtnV0wAAAAJ&citation_for_view=NWtnV0wAAAAJ:qjMakFHDy7sC

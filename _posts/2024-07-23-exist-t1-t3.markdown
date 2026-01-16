@@ -5,7 +5,7 @@ authors: "Fariha Tanjim Shifat, Fabiha Haider, Md Sakib Ul Rahman Sourove, Deepa
 venue: "CLEF EXIST 2024"
 date: 2024-07-23
 categories: research
-image: /images/publication-placeholder.png
+image: /images/exist1.png
 paper: https://ceur-ws.org/Vol-3740/paper-114.pdf
 code: https://github.com/farhanishmam/Penta-Exist-2024
 scholar: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NWtnV0wAAAAJ&citation_for_view=NWtnV0wAAAAJ:u-x6o8ySG0sC

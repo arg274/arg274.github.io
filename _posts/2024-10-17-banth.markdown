@@ -5,7 +5,7 @@ authors: "Fabiha Haider, Fariha Tanjim Shifat, Md Farhan Ishmam, Deeparghya Dutt
 venue: "NAACL 2025 (Findings)"
 date: 2024-10-17
 categories: research
-image: /images/publication-placeholder.png
+image: /images/banth.png
 paper: https://arxiv.org/abs/2410.13281
 code: https://github.com/farhanishmam/BanTH
 scholar: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NWtnV0wAAAAJ&citation_for_view=NWtnV0wAAAAJ:2osOgNQ5qMEC

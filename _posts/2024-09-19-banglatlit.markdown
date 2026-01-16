@@ -5,7 +5,7 @@ authors: "Md Fahim, Fariha Tanjim Shifat, Fabiha Haider, Deeparghya Dutta Barua,
 venue: "EMNLP 2024 (Findings)"
 date: 2024-09-19
 categories: research
-image: /images/publication-placeholder.png
+image: /images/bantlit.png
 paper: https://aclanthology.org/2024.findings-emnlp.859/
 code: https://github.com/farhanishmam/BanglaTLit
 scholar: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NWtnV0wAAAAJ&citation_for_view=NWtnV0wAAAAJ:UeHWp8X0CEIC
