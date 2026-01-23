@@ -3,7 +3,6 @@ layout: post
 title: "Rongali"
 categories: projects
 date: 2024-05-04
-image: /images/project-placeholder.png
 website: https://rongali.vercel.app/
 ---
 

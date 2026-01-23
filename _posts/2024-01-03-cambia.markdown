@@ -3,7 +3,6 @@ layout: post
 title: "cambia"
 categories: projects
 date: 2022-12-01
-image: /images/project-placeholder.png
 code: https://github.com/arg274/cambia
 website: https://logs.musichoarders.xyz/
 ---
