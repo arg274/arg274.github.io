@@ -1,0 +1,12 @@
+---
+layout: post
+title: "CASHEW: Stabilizing Multimodal Reasoning via Iterative Trajectory Aggregation"
+authors: "Chaoyu Li, Deeparghya Dutta Barua, Fei Tao, Pooyan Fazli"
+venue: "ArXiv 2026"
+date: 2026-01-12
+categories: research
+image: /images/cashew.png
+paper: https://arxiv.org/abs/2601.08010
+---
+
+Introduces CASHEW and CASHEW-RL, frameworks that stabilize vision-language model reasoning through iterative trajectory aggregation and reinforcement learning, achieving significant gains on ScienceQA and EgoSchema.
